@@ -37,6 +37,6 @@ This project predicts vessel movements from AIS data, even when MMSIs (Maritime 
     - Min_samples: 5
 
 
-<sup>For further tests done and thought process, I had read through [report].</sup> 
+<sup>For further tests done and my thought process, read through my [report].</sup>
 
 [report]: https://www.mediafire.com/file/zxhev8uscdarj0u/annotated-Case+Study+2+-+Report.pdf/file 
