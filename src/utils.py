@@ -2,7 +2,7 @@
 """
 Utility functions for working with AIS data
 
-@author: Kevin S. Xu, SilentStorm2k
+@author: Kevin S. Xu, SilentStorm2k, Jackson Jacobs
 """
 
 import numpy as np

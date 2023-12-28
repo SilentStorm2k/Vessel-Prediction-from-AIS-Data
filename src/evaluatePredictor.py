@@ -2,7 +2,7 @@
 """
 Script to evaluate prediction accuracy
 
-@author: Kevin S. Xu, SilentStorm2k
+@author: Kevin S. Xu, SilentStorm2k, Jackson Jacobs
 """
 
 import numpy as np

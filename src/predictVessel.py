@@ -2,7 +2,7 @@
 """
 Vessel prediction using k-means clustering on standardized features. If the
 number of vessels is not specified, assume 20 vessels.
-@author: SilentStorm2k
+@author: SilentStorm2k, Jackson Jacobs
 built on guidance from Kevin S. Xu
 """
 import numpy as np
